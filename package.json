@@ -1,0 +1,21 @@
+{
+  "name": "@laushg/symbols",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "description": "Browser-only SVG symbol library for lightweight UI icons.",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "svg",
+    "symbols",
+    "icons",
+    "browser"
+  ],
+  "license": "MIT"
+}
